@@ -95,3 +95,4 @@ let strLength2: number = (someValue as string).length;
 
 
 
+
