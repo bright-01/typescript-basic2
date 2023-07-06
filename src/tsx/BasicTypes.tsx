@@ -65,6 +65,8 @@ function error(message: string): never {
 
 
 
+
+
 function fail() {
     return error('something failed');
 }
