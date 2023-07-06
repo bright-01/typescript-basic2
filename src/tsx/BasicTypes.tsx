@@ -73,6 +73,7 @@ function infiniteLoop(): never {
     }
 }
 
+
 /*Object*/
 declare function create(o: object | null): void;
 create({prop: 0})
